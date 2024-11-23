@@ -1,0 +1,22 @@
+
+
+.swiper {
+    width: 50%;
+    height: 70%;
+  }
+  
+
+
+.swiper-button-prev,
+.swiper-button-next {
+    color: gray;
+
+}
+
+.description {
+    background-color: rgba(164, 197, 219, 0.3);
+    bottom: 0;
+    padding: 150px 50px;
+    position: absolute;
+    width: 100%
+}
